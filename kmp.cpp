@@ -1,5 +1,7 @@
+
 #include <iostream>
 #include <cstring>
+
 using namespace std;
 void preKMP(string pattern, int f[])
 {
